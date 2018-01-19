@@ -1,0 +1,91 @@
+Wed Dec 06 11:10:13 2017: build-wrapper, version 5.0 (macosx-x86)
+Wed Dec 06 11:10:13 2017: System name: Darwin Nodename: chenglimbp Release: 17.2.0 Version: Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64 Machine: x86_64
+Wed Dec 06 11:10:13 2017: socket path: /tmp/build-wrapper-socket.Eg7axd
+Wed Dec 06 11:10:13 2017: dynamic library found: /private/etc/sonar-scanner-3.0.3.778-macosx/bin/libinterceptor.dylib
+Wed Dec 06 11:10:13 2017: command executed as: <build-wrapper-macosx-x86>
+Wed Dec 06 11:10:13 2017: command line received: <make all>
+Wed Dec 06 11:10:13 2017: env 0: <TERM_SESSION_ID=w0t0p0:41D02B54-2DFB-4243-906B-5C1BA7363509>
+Wed Dec 06 11:10:13 2017: env 1: <SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.is8ru42yTg/Listeners>
+Wed Dec 06 11:10:13 2017: env 2: <Apple_PubSub_Socket_Render=/private/tmp/com.apple.launchd.8BWtu6WhAw/Render>
+Wed Dec 06 11:10:13 2017: env 3: <COLORFGBG=7;0>
+Wed Dec 06 11:10:13 2017: env 4: <ITERM_PROFILE=Default>
+Wed Dec 06 11:10:13 2017: env 5: <XPC_FLAGS=0x0>
+Wed Dec 06 11:10:13 2017: env 6: <LANG=zh_CN.UTF-8>
+Wed Dec 06 11:10:13 2017: env 7: <PWD=/Users/dennis/workspace/yiran/AsciiCamera>
+Wed Dec 06 11:10:13 2017: env 8: <SHELL=/bin/zsh>
+Wed Dec 06 11:10:13 2017: env 9: <TERM_PROGRAM_VERSION=3.1.5>
+Wed Dec 06 11:10:13 2017: env 10: <TERM_PROGRAM=iTerm.app>
+Wed Dec 06 11:10:13 2017: env 11: <PATH=/Users/dennis/.sdkman/candidates/groovy/current/bin:/Users/dennis/.nvm/versions/node/v5.1.1/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/etc/sonarqube-5.1.2/bin/macosx-universal-64:/etc/sonar-scanner-3.0.3.778-macosx/bin:/Users/dennis/Library/Android/sdk/tools:/Users/dennis/Library/Android/sdk/platform-tools:/Users/dennis/workspace/maven/bin/:/Users/dennis/.rvm/bin>
+Wed Dec 06 11:10:13 2017: env 12: <DISPLAY=/private/tmp/com.apple.launchd.Ot2Ud7hpV5/org.macosforge.xquartz:0>
+Wed Dec 06 11:10:13 2017: env 13: <COLORTERM=truecolor>
+Wed Dec 06 11:10:13 2017: env 14: <TERM=xterm-256color>
+Wed Dec 06 11:10:13 2017: env 15: <HOME=/Users/dennis>
+Wed Dec 06 11:10:13 2017: env 16: <TMPDIR=/var/folders/20/dg2yvh4x711b_2r7vdlwf2m80000gn/T/>
+Wed Dec 06 11:10:13 2017: env 17: <USER=dennis>
+Wed Dec 06 11:10:13 2017: env 18: <XPC_SERVICE_NAME=0>
+Wed Dec 06 11:10:13 2017: env 19: <LOGNAME=dennis>
+Wed Dec 06 11:10:13 2017: env 20: <__CF_USER_TEXT_ENCODING=0x1F5:0x19:0x34>
+Wed Dec 06 11:10:13 2017: env 21: <ITERM_SESSION_ID=w0t0p0:41D02B54-2DFB-4243-906B-5C1BA7363509>
+Wed Dec 06 11:10:13 2017: env 22: <SHLVL=1>
+Wed Dec 06 11:10:13 2017: env 23: <OLDPWD=/Users/dennis/workspace/yiran/AsciiCamera>
+Wed Dec 06 11:10:13 2017: env 24: <ZSH=/Users/dennis/.oh-my-zsh>
+Wed Dec 06 11:10:13 2017: env 25: <PAGER=less>
+Wed Dec 06 11:10:13 2017: env 26: <LESS=-R>
+Wed Dec 06 11:10:13 2017: env 27: <LC_CTYPE=zh_CN.UTF-8>
+Wed Dec 06 11:10:13 2017: env 28: <LSCOLORS=Gxfxcxdxbxegedabagacad>
+Wed Dec 06 11:10:13 2017: env 29: <AUTOJUMP_SOURCED=1>
+Wed Dec 06 11:10:13 2017: env 30: <AUTOJUMP_ERROR_PATH=/Users/dennis/Library/autojump/errors.log>
+Wed Dec 06 11:10:13 2017: env 31: <SVN_EDITOR=/usr/bin/vim>
+Wed Dec 06 11:10:13 2017: env 32: <NVM_DIR=/Users/dennis/.nvm>
+Wed Dec 06 11:10:13 2017: env 33: <NVM_CD_FLAGS=-q>
+Wed Dec 06 11:10:13 2017: env 34: <NVM_NODEJS_ORG_MIRROR=https://nodejs.org/dist>
+Wed Dec 06 11:10:13 2017: env 35: <NVM_IOJS_ORG_MIRROR=https://iojs.org/dist>
+Wed Dec 06 11:10:13 2017: env 36: <MANPATH=/Users/dennis/.nvm/versions/node/v5.1.1/share/man:/usr/local/share/man:/usr/share/man:/opt/X11/share/man:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/share/man:/Applications/Xcode.app/Contents/Developer/usr/share/man:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/share/man>
+Wed Dec 06 11:10:13 2017: env 37: <NVM_PATH=/Users/dennis/.nvm/versions/node/v5.1.1/lib/node>
+Wed Dec 06 11:10:13 2017: env 38: <NVM_BIN=/Users/dennis/.nvm/versions/node/v5.1.1/bin>
+Wed Dec 06 11:10:13 2017: env 39: <JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home>
+Wed Dec 06 11:10:13 2017: env 40: <M2_HOME=/Users/dennis/workspace/maven>
+Wed Dec 06 11:10:13 2017: env 41: <SDKMAN_DIR=/Users/dennis/.sdkman>
+Wed Dec 06 11:10:13 2017: env 42: <SDKMAN_PLATFORM=Darwin>
+Wed Dec 06 11:10:13 2017: env 43: <SDKMAN_VERSION=5.5.2+183>
+Wed Dec 06 11:10:13 2017: env 44: <SDKMAN_LEGACY_API=https://api.sdkman.io/1>
+Wed Dec 06 11:10:13 2017: env 45: <SDKMAN_CURRENT_API=https://api.sdkman.io/2>
+Wed Dec 06 11:10:13 2017: env 46: <SDKMAN_CANDIDATES_DIR=/Users/dennis/.sdkman/candidates>
+Wed Dec 06 11:10:13 2017: env 47: <GROOVY_HOME=/Users/dennis/.sdkman/candidates/groovy/current>
+Wed Dec 06 11:10:13 2017: env 48: <rvm_prefix=/Users/dennis>
+Wed Dec 06 11:10:13 2017: env 49: <rvm_path=/Users/dennis/.rvm>
+Wed Dec 06 11:10:13 2017: env 50: <rvm_bin_path=/Users/dennis/.rvm/bin>
+Wed Dec 06 11:10:13 2017: env 51: <_system_type=Darwin>
+Wed Dec 06 11:10:13 2017: env 52: <_system_name=OSX>
+Wed Dec 06 11:10:13 2017: env 53: <_system_version=10.13>
+Wed Dec 06 11:10:13 2017: env 54: <_system_arch=x86_64>
+Wed Dec 06 11:10:13 2017: env 55: <rvm_version=1.29.3 (latest)>
+Wed Dec 06 11:10:13 2017: env 56: <_=/etc/sonar-scanner-3.0.3.778-macosx/bin/build-wrapper-macosx-x86>
+Wed Dec 06 11:10:13 2017: executing: <make all>
+Wed Dec 06 11:10:13 2017: initializing json file
+Wed Dec 06 11:10:13 2017: process created with pid: 6866
+Wed Dec 06 11:10:13 2017: parent pid: 6865
+Wed Dec 06 11:10:13 2017: working directory: </Users/dennis/workspace/yiran/AsciiCamera>
+Wed Dec 06 11:10:13 2017: executable: </private/etc/sonar-scanner-3.0.3.778-macosx/bin/build-wrapper-macosx-x86>
+Wed Dec 06 11:10:13 2017: argv[0]: <build-wrapper-macosx-x86>
+Wed Dec 06 11:10:13 2017: argv[1]: <-c>
+Wed Dec 06 11:10:13 2017: argv[2]: <>
+Wed Dec 06 11:10:13 2017: argv[3]: <make>
+Wed Dec 06 11:10:13 2017: argv[4]: <all>
+Wed Dec 06 11:10:13 2017: skipping process with pid: 6866
+Wed Dec 06 11:10:13 2017: process created with pid: 6867
+Wed Dec 06 11:10:13 2017: parent pid: 6866
+Wed Dec 06 11:10:13 2017: working directory: </Users/dennis/workspace/yiran/AsciiCamera>
+Wed Dec 06 11:10:13 2017: executable: </private/tmp/sonarsource-build-wrapper-cache-501/usr/bin/make>
+Wed Dec 06 11:10:13 2017: argv[0]: <make>
+Wed Dec 06 11:10:13 2017: argv[1]: <all>
+Wed Dec 06 11:10:13 2017: skipping process with pid: 6867
+Wed Dec 06 11:10:13 2017: process created with pid: 6867
+Wed Dec 06 11:10:13 2017: parent pid: 6866
+Wed Dec 06 11:10:13 2017: working directory: </Users/dennis/workspace/yiran/AsciiCamera>
+Wed Dec 06 11:10:13 2017: executable: </Applications/Xcode.app/Contents/Developer/usr/bin/make>
+Wed Dec 06 11:10:13 2017: argv[0]: </Applications/Xcode.app/Contents/Developer/usr/bin/make>
+Wed Dec 06 11:10:13 2017: argv[1]: <all>
+Wed Dec 06 11:10:13 2017: skipping process with pid: 6867
+Wed Dec 06 11:10:13 2017: finalizing json file
+Wed Dec 06 11:10:13 2017: returned with code: 2
